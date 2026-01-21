@@ -82,10 +82,10 @@ jupyter lab
 ## Next Steps
 
 ### 1. Stakeholder Presentation: 
-    Share findings with stakeholders to secure investment in upgraded computational resources and expanded datasets.
+    - Share findings with stakeholders to secure investment in upgraded computational resources and expanded datasets.
 
 ### 2. Model Deployment: 
-    Integrate the fraud detection model into the bank’s application with real-time notification systems for suspicious activity.
+    - Integrate the fraud detection model into the bank’s application with real-time notification systems for suspicious activity.
 
 ### 3. Performance Monitoring: 
-    Establish weekly reviews of recall and F1 scores to track improvements, identify weaknesses, and refine the model continuously.
+    - Establish weekly reviews of recall and F1 scores to track improvements, identify weaknesses, and refine the model continuously.
