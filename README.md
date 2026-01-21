@@ -49,13 +49,17 @@ As a result:
 
 ## 🚀 Getting Started
 
+
 ### Step 1: Clone the repository
 
 ```bash
 git clone https://github.com/aitechinstitute/ab-25-06-beginner-ai.git
 cd ab-25-06-beginner-ai
 ```
+### Step 2: Download data from kaggle
 
+Datasets are not able to load into Github due to the size, please use the link below to download train_transactions.csv and train_identity.csv fro Kaggle. Then save them in the same location with project to run.
+https://www.kaggle.com/datasets/lnasiri007/ieeecis-fraud-detection/data
 
 ### Step 3: Launch Jupyter Lab (or VS Code) to open project
 
@@ -64,3 +68,22 @@ jupyter lab
 ```
 ---
 
+## Assumptions & Limitations
+
+- Dataset contains limited fraud examples, restricting recall performance
+
+- Model performance depends heavily on feature quality
+
+- Hardware restrictions required reducing dataset size and narrowing hyperparameter search ranges.
+
+## Next Steps
+### Next Steps
+
+### 1. Stakeholder Presentation: 
+    Share findings with stakeholders to secure investment in upgraded computational resources and expanded datasets.
+
+### 2. Model Deployment: 
+    Integrate the fraud detection model into the bank’s application with real-time notification systems for suspicious activity.
+
+### 3. Performance Monitoring: 
+    Establish weekly reviews of recall and F1 scores to track improvements, identify weaknesses, and refine the model continuously.
