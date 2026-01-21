@@ -18,7 +18,7 @@ As a result:
 ---
 
 ## 🗂️ Data Source
-- Kaggle dataset (IEEE-CIS fraud detection):https://www.kaggle.com/datasets/lnasiri007/ieeecis-fraud-detection/data
+- Kaggle dataset (IEEE-CIS fraud detection).
 - Only train_identity and train_transaction used for training model.
 
 ### Dataset Description
@@ -58,7 +58,10 @@ cd ab-25-06-beginner-ai
 ```
 ### Step 2: Download data from kaggle
 
-Datasets are not able to load into Github due to the size, please use the link below to download train_transactions.csv and train_identity.csv fro Kaggle. Then save them in the same location with project to run.
+The datasets are not included in this repository due to GitHub file size limitations.
+Please download train_transactions.csv and train_identity.csv from the Kaggle link below and place them in the project directory before running the code.
+
+Kaggle dataset:
 https://www.kaggle.com/datasets/lnasiri007/ieeecis-fraud-detection/data
 
 ### Step 3: Launch Jupyter Lab (or VS Code) to open project
