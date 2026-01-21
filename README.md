@@ -77,7 +77,6 @@ jupyter lab
 - Hardware restrictions required reducing dataset size and narrowing hyperparameter search ranges.
 
 ## Next Steps
-### Next Steps
 
 ### 1. Stakeholder Presentation: 
     Share findings with stakeholders to secure investment in upgraded computational resources and expanded datasets.
